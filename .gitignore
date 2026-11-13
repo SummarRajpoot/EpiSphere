@@ -8,3 +8,6 @@ venv/
 .venv/
 *.db
 *.sqlite
+
+server_log.txt
+scratch/
